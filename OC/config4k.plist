@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>#WARNING - 1</key>
-	<string>version0.7.8, disable secureboot, macos12.5</string>
+	<string>version0.7.8, macos12.5</string>
 	<key>#WARNING - 2</key>
 	<string>Ensure you understand EVERY field before booting.</string>
 	<key>#WARNING - 3</key>
@@ -1874,7 +1874,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>Disabled</string>
+			<string>j214k</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
