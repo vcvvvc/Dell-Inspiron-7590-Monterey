@@ -8,6 +8,8 @@
  
 - Ability to use wifi and bluetooth
 
+(Ventura has not been tested. I will test it after 13.4 is released)
+
 ---
 
 # Monterey
