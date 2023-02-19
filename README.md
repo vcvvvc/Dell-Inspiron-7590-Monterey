@@ -20,7 +20,7 @@
 
 # Hide
 
-[hide](/img/hide.jpg)
+[hide.png](/img/hide.png)
 
 [bug.jpg](/img/bug.jpg)
 
