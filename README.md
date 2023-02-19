@@ -22,7 +22,7 @@
 
 [hide.png](/img/hide.png)
 
-[bug.jpg](/img/bug.jpg)
+[menu.jpg](/img/efi_menu.jpg)
 
 ---
 
