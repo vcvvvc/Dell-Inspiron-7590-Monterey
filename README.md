@@ -18,9 +18,10 @@
 
 ---
 
-# Bug
+# Hide
 
-**There is a bug in the config, but it does not affect the use.**  
+[hide](/img/hide.jpg)
+
 [bug.jpg](/img/bug.jpg)
 
 ---
