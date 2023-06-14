@@ -6,7 +6,7 @@ https://github.com/6923403/Dell-Inspiron-7590-Ventura
 
 # Info
 
-- Dell-Inspiron-7590
+- Dell-Inspiron-7590 （4K由于没机器未测试，但理论上没问题）
 
 - OC: 0.7.8
  
