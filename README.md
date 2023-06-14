@@ -1,3 +1,9 @@
+## Ventura 13.4已上车
+
+https://github.com/6923403/Dell-Inspiron-7590-Ventura
+
+---
+
 # Info
 
 - Dell-Inspiron-7590
@@ -7,22 +13,12 @@
 - MacOS Monterey 12.5.1 (21G83)
  
 - Ability to use wifi and bluetooth
-
-(Ventura has not been tested. I will test it after 13.4 is released)
-
+  
 ---
 
 # Monterey
 
 ![Monterey](img/Monterey-Desktop.png)
-
----
-
-# Hide
-
-[hide.png](/img/hide.png)
-
-[menu.jpg](/img/efi_menu.jpg)
 
 ---
 
