@@ -13,6 +13,10 @@ https://github.com/6923403/Dell-Inspiron-7590-Ventura
 - MacOS Monterey 12.5.1 (21G83)
  
 - Ability to use wifi and bluetooth
+
+ - HDMI修复 [https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/2](https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/2) 
+ 
+ - 【三码洗白，将你的黑苹果洗为白苹果】 https://www.bilibili.com/video/BV1454y167ML
   
 ---
 
