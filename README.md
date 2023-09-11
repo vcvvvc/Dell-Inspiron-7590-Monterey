@@ -1,4 +1,4 @@
-## Ventura 13.4已上车
+## Ventura 13.4已更新
 
 https://github.com/6923403/Dell-Inspiron-7590-Ventura
 
