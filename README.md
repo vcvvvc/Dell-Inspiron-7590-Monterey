@@ -1,6 +1,6 @@
 ## Ventura 13.4已更新
 
-https://github.com/6923403/Dell-Inspiron-7590-Ventura
+https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura
 
 ---
 
@@ -14,7 +14,7 @@ https://github.com/6923403/Dell-Inspiron-7590-Ventura
  
 - Ability to use wifi and bluetooth
 
- - HDMI修复 [https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/2](https://github.com/6923403/Dell-Inspiron-7590-Ventura/issues/2) 
+ - HDMI修复 [https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura/issues/2](https://github.com/vcvvvc/Dell-Inspiron-7590-Ventura/issues/2) 
  
  - 【三码洗白，将你的黑苹果洗为白苹果】 https://www.bilibili.com/video/BV1454y167ML
   
